@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/DesignationCategoryDef[defName="Structure"]/specialDesignatorClasses/li</xpath>
+		<value>
+			<li>RoofDevTool.Designator_BuildRoof</li>
+			<li>RoofDevTool.Designator_RemoveRoof</li>
+		</value>
+	</Operation>
+</Patch>
