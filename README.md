@@ -8,6 +8,9 @@ Add/remove any roof type
 Change terrain to any type  
 Instantly smooth floor/walls
 
+Other changes:  
+nondestroyables (such as steam geysers) can be destroyed
+
 Feel free to suggest new tools if there is something you want to be able to do (or something you want to be easier to do)
 
 Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=1796223954  
