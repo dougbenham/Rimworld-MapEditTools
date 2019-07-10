@@ -1,9 +1,14 @@
-# ~~Roof Dev Tool~~ Map Edit Tools
-Simple mod that lets you place all roof types, useful if you hate having a part of your mountain base not covered by overhead mountain.
+# Map Edit Tools
+Formerly Roof Dev Tool
 
-To use, turn on development mode in options, then open Architect -> Structures.
+Adds new tools that make editing the map easier.
+To use, just open Architect -> MapTools
+Tools:
+Add/remove any roof type
+Change terrain to any type
+Instantly smooth floor/walls
 
-Should work with any custom roof types from other mods.
+Feel free to suggest new tools if there is something you want to be able to do (or something you want to be easier to do)
 
 Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=1796223954  
 Ludeon Forums link: https://ludeon.com/forums/index.php?topic=49120.0
