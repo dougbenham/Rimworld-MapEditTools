@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="FloorEdit.cs" />
     <Compile Include="MapEditDesignator.cs" />
+    <Compile Include="MapEditTools.cs" />
     <Compile Include="RoofEdit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SmoothTool.cs" />
