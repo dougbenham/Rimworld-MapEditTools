@@ -10,7 +10,7 @@
 		<li>Designator_Deconstruct</li>
 		<li>MapEditTools.Designator_BuildRoof</li>
 		<li>MapEditTools.Designator_RemoveRoof</li>
-		<li>MapEditTools.Designator_SetUnderTerrain</li>
+		<li>MapEditTools.Designator_SetTerrain</li>
     </specialDesignatorClasses>
 	</DesignationCategoryDef>
 </Defs>
