@@ -4,7 +4,10 @@
 	<MapEditTools.DesignatorBuildRoof>Build Roof</MapEditTools.DesignatorBuildRoof>
 	<MapEditTools.DesignatorBuildRoofDesc>Instantly builds any roof.</MapEditTools.DesignatorBuildRoofDesc>
 	
-	<MapEditTools.DesignatorRemoveRoof>Remove Roof</RoofDevTool.DesignatorRemoveRoof>
+	<MapEditTools.DesignatorRemoveRoof>Remove Roof</MapEditTools.DesignatorRemoveRoof>
 	<MapEditTools.DesignatorRemoveRoofDesc>Instantly removes any roof.</MapEditTools.DesignatorRemoveRoofDesc>
+	
+	<MapEditTools.DesignatorSetTerrain>Set Terrain</MapEditTools.DesignatorSetTerrain>
+	<MapEditTools.DesignatorSetTerrainDesc>Set the terrain.</MapEditTools.DesignatorSetTerrainDesc>
 	
 </LanguageData>
