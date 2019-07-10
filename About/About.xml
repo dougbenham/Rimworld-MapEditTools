@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Roof Dev Tool</name>
+	<name>Map Edit Tools</name>
 	<author>Herigony</author>
 	<supportedVersions>
 		<li>1.0</li>
 	</supportedVersions>
-	<description>Simple mod that lets you place all roof types.
-To use, turn on development mode in options, then open Architect -> Structures.</description>
+	<description>Adds new tools that make editing the map easier.
+To use, enable Dev Mode in options, then go to Architect -> MapEdit.</description>
+Features:
+Add/remove any roof type
+Change terrain without needing to click on every tile
+Place stone/minerals without needing to click on every tile
+Smooth floor/walls now autocompletes when god mode is on
 </ModMetaData>

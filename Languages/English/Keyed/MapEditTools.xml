@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MapEditTools.DesignatorBuildRoof>Build Roof</MapEditTools.DesignatorBuildRoof>
+	<MapEditTools.DesignatorBuildRoofDesc>Instantly builds any roof.</MapEditTools.DesignatorBuildRoofDesc>
+	
+	<MapEditTools.DesignatorRemoveRoof>Remove Roof</RoofDevTool.DesignatorRemoveRoof>
+	<MapEditTools.DesignatorRemoveRoofDesc>Instantly removes any roof.</MapEditTools.DesignatorRemoveRoofDesc>
+	
+</LanguageData>
