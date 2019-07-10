@@ -6,10 +6,9 @@
 		<li>1.0</li>
 	</supportedVersions>
 	<description>Adds new tools that make editing the map easier.
-To use, enable Dev Mode in options, then go to Architect -> MapEdit.</description>
+To use, enable Dev Mode in options, then go to Architect -> MapEdit.
 Features:
 Add/remove any roof type
 Change terrain without needing to click on every tile
-Place stone/minerals without needing to click on every tile
-Smooth floor/walls now autocompletes when god mode is on
+Instantly smooth floor/walls</description>
 </ModMetaData>
