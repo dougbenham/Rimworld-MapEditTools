@@ -8,7 +8,7 @@
     <specialDesignatorClasses>
 		<li>Designator_Cancel</li>
 		<li>Designator_Deconstruct</li>
-		<li>MapEditTools.Designator_SetRoof</li>
+		<li>MapEditTools.Designator_BuildRoof</li>
 		<li>MapEditTools.Designator_RemoveRoof</li>
 		<li>MapEditTools.Designator_SetUnderTerrain</li>
     </specialDesignatorClasses>
