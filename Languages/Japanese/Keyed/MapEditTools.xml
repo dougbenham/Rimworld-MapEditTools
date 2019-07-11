@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MapEditTools.DesignatorBuildRoof>屋根を建設</MapEditTools.DesignatorBuildRoof>
+  <MapEditTools.DesignatorBuildRoofDesc>簡単に色々な種類の屋根を取り付けます。</MapEditTools.DesignatorBuildRoofDesc>
+
+  <MapEditTools.DesignatorRemoveRoof>屋根を除去</MapEditTools.DesignatorRemoveRoof>
+  <MapEditTools.DesignatorRemoveRoofDesc>簡単に色々な屋根を取り外します。</MapEditTools.DesignatorRemoveRoofDesc>
+
+  <MapEditTools.DesignatorSetTerrain>地形を設定</MapEditTools.DesignatorSetTerrain>
+  <MapEditTools.DesignatorSetTerrainDesc>地形を設定します。</MapEditTools.DesignatorSetTerrainDesc>
+
+</LanguageData>
