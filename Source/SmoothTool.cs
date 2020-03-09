@@ -15,7 +15,7 @@ namespace MapEditTools
         public override AcceptanceReport CanDesignateCell(IntVec3 c)
         {
             AcceptanceReport report = base.CanDesignateCell(c);
-            if (report.Accepted || report.Reason == "SurfaceBeingSmoothed".Translate() || report.Reason == "TooCloseToMapEdge".Translate())
+            if (report.Accepted || report.Reason == "SurfaceBeingSmoothed".Translate().Resolve() || report.Reason == "TooCloseToMapEdge".Translate().Resolve())
                 return true;
             return report;
         }

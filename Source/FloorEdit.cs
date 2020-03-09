@@ -14,8 +14,8 @@ namespace MapEditTools
 
         public Designator_SetTerrain() : base()
         {
-            this.defaultLabel = "MapEditTools.DesignatorSetTerrain".Translate();
-            this.defaultDesc = "MapEditTools.DesignatorSetTerrainDesc".Translate();
+            this.defaultLabel = "MapEditTools.DesignatorSetTerrain".Translate().Resolve();
+            this.defaultDesc = "MapEditTools.DesignatorSetTerrainDesc".Translate().Resolve();
         }
 
         public override void DesignateSingleCell(IntVec3 c)

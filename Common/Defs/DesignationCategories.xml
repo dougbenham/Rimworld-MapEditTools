@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<DesignationCategoryDef>
+	<defName>MapEdit</defName>
+    <label>mapEdit</label>
+    <order>0</order>
+    <specialDesignatorClasses>
+		<li>Designator_Cancel</li>
+		<li>Designator_Deconstruct</li>
+		<li>MapEditTools.Designator_BuildRoof</li>
+		<li>MapEditTools.Designator_RemoveRoof</li>
+		<li>MapEditTools.Designator_SetTerrain</li>
+		<li>MapEditTools.Designator_SmoothSurface</li>
+		<li>MapEditTools.Designator_AddFog</li>
+		<li>MapEditTools.Designator_RemoveFog</li>
+    </specialDesignatorClasses>
+	</DesignationCategoryDef>
+</Defs>

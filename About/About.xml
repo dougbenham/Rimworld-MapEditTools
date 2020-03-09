@@ -4,7 +4,9 @@
 	<author>Herigony</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<packageId>Herigony.MapEditTools</packageId>
 	<description>Adds new tools that make editing the map easier.
 To use, just open Architect -> MapTools
 Tools:

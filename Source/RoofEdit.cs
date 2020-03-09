@@ -30,8 +30,8 @@ namespace MapEditTools
     {
         public Designator_BuildRoof() : base()
         {
-            this.defaultLabel = "MapEditTools.DesignatorBuildRoof".Translate();
-            this.defaultDesc = "MapEditTools.DesignatorBuildRoofDesc".Translate();
+            this.defaultLabel = "MapEditTools.DesignatorBuildRoof".Translate().Resolve();
+            this.defaultDesc = "MapEditTools.DesignatorBuildRoofDesc".Translate().Resolve();
             this.icon = ContentFinder<Texture2D>.Get("UI/Designators/BuildRoofArea");
         }
 
@@ -63,8 +63,8 @@ namespace MapEditTools
     {
         public Designator_RemoveRoof() : base()
         {
-            this.defaultLabel = "MapEditTools.DesignatorRemoveRoof".Translate();
-            this.defaultDesc = "MapEditTools.DesignatorRemoveRoofDesc".Translate();
+            this.defaultLabel = "MapEditTools.DesignatorRemoveRoof".Translate().Resolve();
+            this.defaultDesc = "MapEditTools.DesignatorRemoveRoofDesc".Translate().Resolve();
             this.icon = ContentFinder<Texture2D>.Get("UI/Designators/NoRoofArea");
             this.soundSucceeded = SoundDefOf.Designate_Deconstruct;
         }

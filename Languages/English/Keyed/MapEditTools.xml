@@ -10,4 +10,10 @@
 	<MapEditTools.DesignatorSetTerrain>Set Terrain</MapEditTools.DesignatorSetTerrain>
 	<MapEditTools.DesignatorSetTerrainDesc>Set the terrain.</MapEditTools.DesignatorSetTerrainDesc>
 	
+	<MapEditTools.DesignatorAddFog>Add Fog</MapEditTools.DesignatorAddFog>
+	<MapEditTools.DesignatorAddFogDesc>Add fog on the map.</MapEditTools.DesignatorAddFogDesc>
+	
+	<MapEditTools.DesignatorRemoveFog>Remove Fog</MapEditTools.DesignatorRemoveFog>
+	<MapEditTools.DesignatorRemoveFogDesc>Remove fog on the map.</MapEditTools.DesignatorRemoveFogDesc>
+	
 </LanguageData>
