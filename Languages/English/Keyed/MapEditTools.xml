@@ -16,4 +16,7 @@
 	<MapEditTools.DesignatorRemoveFog>Remove Fog</MapEditTools.DesignatorRemoveFog>
 	<MapEditTools.DesignatorRemoveFogDesc>Remove fog on the map.</MapEditTools.DesignatorRemoveFogDesc>
 	
+	<MapEditTools.DesignatorPlaceStone>Place Stone</MapEditTools.DesignatorPlaceStone>
+	<MapEditTools.DesignatorPlaceStoneDesc>Place stone/ores.</MapEditTools.DesignatorPlaceStoneDesc>
+	
 </LanguageData>
