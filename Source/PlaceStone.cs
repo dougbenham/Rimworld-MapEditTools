@@ -17,9 +17,10 @@ namespace MapEditTools {
 			this.defaultDesc = "MapEditTools.DesignatorPlaceStoneDesc".Translate().Resolve();
             this.useMouseIcon = false;
             Texture2D rockAtlas = DuplicateTexture(ContentFinder<Texture2D>.Get("Things/Building/Linked/Rock_Atlas"));
-            this.icon = new Texture2D(rockAtlas.width / 4, rockAtlas.height / 4, rockAtlas.format, false);
-            this.icon.SetPixels(0, 0, this.icon.width, this.icon.height, rockAtlas.GetPixels(0, 0, rockAtlas.width / 4, rockAtlas.height / 4));
-            this.icon.Apply();
+            Texture2D icon = new Texture2D(rockAtlas.width / 4, rockAtlas.height / 4, rockAtlas.format, false);
+            icon.SetPixels(0, 0, this.icon.width, this.icon.height, rockAtlas.GetPixels(0, 0, rockAtlas.width / 4, rockAtlas.height / 4));
+            icon.Apply();
+            this.icon = icon;
 			this.defaultIconColor = DefDatabase<ThingDef>.GetNamed("Granite").graphicData.color;
 		}
 
