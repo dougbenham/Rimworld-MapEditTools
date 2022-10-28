@@ -34,6 +34,7 @@ namespace MapEditTools
                 return;
             List<FloatMenuOption> list = new List<FloatMenuOption>();
             foreach (TerrainDef def in from rd in DefDatabase<TerrainDef>.AllDefs
+                                    where !rd.BuildableByPlayer
                                     orderby rd.label
                                     select rd)
             {
