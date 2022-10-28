@@ -18,10 +18,10 @@ namespace MapEditTools {
             this.useMouseIcon = false;
             Texture2D rockAtlas = DuplicateTexture(ContentFinder<Texture2D>.Get("Things/Building/Linked/Rock_Atlas"));
             Texture2D icon = new Texture2D(rockAtlas.width / 4, rockAtlas.height / 4, rockAtlas.format, false);
-            icon.SetPixels(0, 0, this.icon.width, this.icon.height, rockAtlas.GetPixels(0, 0, rockAtlas.width / 4, rockAtlas.height / 4));
+            icon.SetPixels(0, 0, icon.width, icon.height, rockAtlas.GetPixels(0, 0, rockAtlas.width / 4, rockAtlas.height / 4));
             icon.Apply();
             this.icon = icon;
-			this.defaultIconColor = DefDatabase<ThingDef>.GetNamed("Granite").graphicData.color;
+			this.defaultIconColor = DefDatabase<ThingDef>.GetNamed("Granite")?.graphicData.color ?? new Color();
 		}
 
 		public override void DesignateSingleCell(IntVec3 c) {

@@ -14,7 +14,7 @@
 		<li>MapEditTools.Designator_SmoothSurface</li>
 		<li>MapEditTools.Designator_AddFog</li>
 		<li>MapEditTools.Designator_RemoveFog</li>
-		<!--<li>MapEditTools.Designator_PlaceStone</li>-->
+		<li>MapEditTools.Designator_PlaceStone</li>
     </specialDesignatorClasses>
 	</DesignationCategoryDef>
 </Defs>
