@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Map Edit Tools</name>
-	<author>Herigony</author>
+	<author>Doug</author>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 		<li>1.2</li>
 		<li>1.3</li>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
-	<packageId>Herigony.MapEditTools</packageId>
-	<description>Adds new tools that make editing the map easier.
-To use, just open Architect -> MapTools
-Tools:
-Add/remove any roof type
-Change terrain to any type
-Instantly smooth floor/walls</description>
+	<packageId>doug.mapedittools</packageId>
+	<description>
+    Continued from https://steamcommunity.com/sharedfiles/filedetails/?id=1796223954
+
+    Github link is https://github.com/dougbenham/Rimworld-MapEditTools
+
+    Adds new tools that make editing the map easier.
+    To use, just open Architect -> MapTools
+    Tools:
+    Add/remove any roof type
+    Change terrain to any type
+    Instantly smooth floor/walls
+  </description>
 </ModMetaData>

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Verse;
+﻿using Verse;
 
 namespace MapEditTools
 {
@@ -21,8 +17,7 @@ namespace MapEditTools
 
         public override void DesignateSingleCell(IntVec3 c)
         {
-            Map.fogGrid.fogGrid[Map.cellIndices.CellToIndex(c)] = true;
-            Map.mapDrawer.MapMeshDirty(c, MapMeshFlag.FogOfWar);
+            Map.fogGrid.Refog(CellRect.SingleCell(c));
         }
     }
 
