@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using RimWorld;
 using UnityEngine;
 using Verse;
 
@@ -8,6 +9,8 @@ namespace MapEditTools
     public class Designator_SetTerrain : MapEditDesignator
     {
         public TerrainDef TerrainDef { get; protected set; }
+
+        public override DrawStyleCategoryDef DrawStyleCategory => DrawStyleCategoryDefOf.Floors;
 
         public Designator_SetTerrain() : base()
         {

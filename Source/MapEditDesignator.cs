@@ -14,7 +14,7 @@ namespace MapEditTools
             this.useMouseIcon = true;
         }
 
-        public override int DraggableDimensions => 2;
+        public override DrawStyleCategoryDef DrawStyleCategory => DrawStyleCategoryDefOf.Orders;
 
         public override bool DragDrawMeasurements => true;
 
