@@ -2,12 +2,21 @@
 <LanguageData>
 
   <MapEditTools.DesignatorBuildRoof>屋根を建設</MapEditTools.DesignatorBuildRoof>
-  <MapEditTools.DesignatorBuildRoofDesc>簡単に色々な種類の屋根を取り付けます。</MapEditTools.DesignatorBuildRoofDesc>
+  <MapEditTools.DesignatorBuildRoofDesc>簡単に色々な種類の屋根を取り付けます.</MapEditTools.DesignatorBuildRoofDesc>
 
   <MapEditTools.DesignatorRemoveRoof>屋根を除去</MapEditTools.DesignatorRemoveRoof>
-  <MapEditTools.DesignatorRemoveRoofDesc>簡単に色々な屋根を取り外します。</MapEditTools.DesignatorRemoveRoofDesc>
+  <MapEditTools.DesignatorRemoveRoofDesc>簡単に色々な屋根を取り外します.</MapEditTools.DesignatorRemoveRoofDesc>
 
   <MapEditTools.DesignatorSetTerrain>地形を設定</MapEditTools.DesignatorSetTerrain>
-  <MapEditTools.DesignatorSetTerrainDesc>地形を設定します。</MapEditTools.DesignatorSetTerrainDesc>
+  <MapEditTools.DesignatorSetTerrainDesc>地形を設定します.</MapEditTools.DesignatorSetTerrainDesc>
+
+  <MapEditTools.DesignatorAddFog>霧を追加</MapEditTools.DesignatorAddFog>
+  <MapEditTools.DesignatorAddFogDesc>不可視の霧をマップに追加します.</MapEditTools.DesignatorAddFogDesc>
+
+  <MapEditTools.DesignatorRemoveFog>霧を除去</MapEditTools.DesignatorRemoveFog>
+  <MapEditTools.DesignatorRemoveFogDesc>マップから不可視の霧を除去します.</MapEditTools.DesignatorRemoveFogDesc>
+
+  <MapEditTools.DesignatorPlaceStone>岩を設置</MapEditTools.DesignatorPlaceStone>
+  <MapEditTools.DesignatorPlaceStoneDesc>岩や鉱脈をマップに追加します.</MapEditTools.DesignatorPlaceStoneDesc>
 
 </LanguageData>
